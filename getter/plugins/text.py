@@ -66,7 +66,7 @@ async def _(kst):
     await kst.eor(text, parts=True)
 
 
-@kasta_cmd(
+Killerqueen21_cmd(
     pattern="repeat(?: |$)(.*)",
     func=lambda e: e.is_reply,
 )
