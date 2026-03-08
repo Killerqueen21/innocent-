@@ -1,5 +1,5 @@
-# Copyright (C) 2022-present kastaid
-# https://github.com/kastaid/getter
+# Copyright (C) 2022-present Killerqueen21 
+# https://github.com/Killerqueen21/Innocent
 # AGPL-3.0 License
 
 from base64 import b64decode
@@ -31,7 +31,7 @@ class Var:
     API_ID: int = int(getenv("API_ID", "0").strip())
     API_HASH: str = getenv("API_HASH", "").strip()
     STRING_SESSION: str = getenv("STRING_SESSION", "").strip()
-    _db = getenv("DATABASE_URL", "sqlite+aiosqlite:///./getter.db").strip()
+    _db = getenv("DATABASE_URL", "sqlite+aiosqlite:///./Killerqueen21.db").strip()
     DATABASE_URL = (
         _db.replace(_db.split("://")[0], "postgresql+asyncpg") if _db.startswith(("postgres:", "postgresql:")) else _db
     )
