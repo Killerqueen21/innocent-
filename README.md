@@ -2,9 +2,9 @@
 
 **A powerful and customizable Telegram userbot built with Telethon. Create custom plugins, automate tasks, and enhance your Telegram experience.**
 
-[![CI](https://github.com/kastaid/getter/workflows/CI/badge.svg)](https://github.com/kastaid/getter/actions/workflows/ci.yml)
-[![LICENSE](https://img.shields.io/github/license/kastaid/getter)](LICENSE)
-![Version](https://img.shields.io/github/manifest-json/v/kastaid/getter?label=Version)
+[![CI](https://github.com/Killerqueen21/Innocent/workflows/CI/badge.svg)](https://github.com/Killerqueen21/Innocent/actions/workflows/ci.yml)
+[![LICENSE](https://img.shields.io/github/license/Killerqueen21/Innocent)](LICENSE)
+![Version](https://img.shields.io/github/manifest-json/v/Killerqueen21/Innocent?label=Version)
 
 ## Disclaimer
 
@@ -52,13 +52,13 @@ Follow these steps to set up and run **getter** on your system.
 ### Clone Repository
 
 ```sh
-git clone https://github.com/kastaid/getter.git
+git clone https://github.com/Killerqueen21/Innocent.git
 cd getter
 ```
 
 #### String Session
 
-Generate `STRING_SESSION` by choosing **Telethon** at [@strgen_bot](https://t.me/strgen_bot) or run `python3 strgen.py`.
+Generate `STRING_SESSION` by choosing **Telethon** at [@Rosegkbot](https://t.me/@Rosegkbot) or run `python3 strgen.py`.
 
 #### Config
 
@@ -109,7 +109,7 @@ More commands: run `python3 -m run -h`.
 
 Deploy to Heroku with one click:
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/kastaid/getter)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Killerqueen21/Innocent)
 
 ## Usage
 
