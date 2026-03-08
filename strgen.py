@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Copyright (C) 2022-present kastaid
-# https://github.com/kastaid/getter
+# Copyright (C) 2022-present Killerqueen21 
+# https://github.com/Killerqueen21/Innocent 
 # AGPL-3.0 License
 
 import asyncio
