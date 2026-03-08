@@ -1,5 +1,5 @@
 # Copyright (C) 2022-present kastaid
-# https://github.com/kastaid/getter
+# https://github.com/Killerqueen21/Innocent 
 # AGPL-3.0 License
 
 from json import dump, load
