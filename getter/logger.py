@@ -1,5 +1,5 @@
-# Copyright (C) 2022-present kastaid
-# https://github.com/kastaid/getter
+# Copyright (C) 2022-present Killerqueen21 
+# https://github.com/Killerqueen21/Innocent
 # AGPL-3.0 License
 
 import logging
@@ -10,7 +10,7 @@ from loguru import logger as LOG
 
 LOG.remove()
 LOG.add(
-    f"logs/getter-{datetime.now(UTC):%Y-%m-%d}.log",
+    f"logs/Killerqueen21{datetime.now(UTC):%Y-%m-%d}.log",
     format="{time:YYYY-MM-DD HH:mm:ss} | {level:<8} | {name}:{function}:{line} | {message}",
     backtrace=False,
     diagnose=False,
