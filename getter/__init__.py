@@ -19,7 +19,7 @@ from version import __version__
 
 StartTime = time()
 __license__ = "GNU Affero General Public License v3.0"
-__copyright__ = "Killerqueen21 Copyright (C) 2022-present kastaid"
+__copyright__ = "Killerqueen21 Copyright (C) 2022-present Killerqueen21"
 __pyversion__ = python_version()
 
 if not sys.platform.startswith("linux"):
